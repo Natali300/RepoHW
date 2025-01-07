@@ -1,0 +1,17 @@
+body{ 
+    color:"#c0c0c0"; 
+   
+} 
+.card {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    font-size: 54px;
+    line-height: 150px;
+    background-color: rgb(189, 156, 156); 
+}
+
