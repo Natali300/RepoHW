@@ -1,0 +1,24 @@
+.block{
+    color: blue;
+    border: 3px solid black;
+
+}
+#blockid{
+    background-color: rgb(205, 226, 10);
+
+}
+.blb{
+    color: brown;
+}
+.block1,.block2,.block3,.block4{
+    color: brown;
+}
+div.nata{
+    color: darkviolet;
+}
+div .bibi{
+    color: darkgreen;
+}
+.hab>.margo{
+    color: crimson;
+}
