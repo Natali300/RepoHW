@@ -1,0 +1,15 @@
+h1{
+    color: blue !important;
+}
+.blok{
+    color: blueviolet;
+}
+[class]{
+    color: chartreuse;
+}
+h1{
+    color: darkgreen;
+}
+#blokid{
+    color: darkorange;
+}
