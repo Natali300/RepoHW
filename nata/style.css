@@ -1,0 +1,34 @@
+.title{
+    color: #002fff83;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+}
+.text{
+    line-height:32px;
+    font-style: italic;
+    font-weight:bold ;
+}
+.line{
+    width: 100%;
+    height: 2px;
+    background-color: #454594;
+}
+.text2{
+    text-align: center;
+    /* text-align: justify; */
+    text-decoration: underline;
+}
+.text3{
+       text-shadow: 3px 3px 5px;
+    }
+ .text4{
+        text-transform: uppercase;
+    }
+ .text5{
+    text-indent: 20px;
+    letter-spacing: 3px;  
+ }
+ .text6{
+    word-spacing: 5px; /*расстояние между словами */
+    white-space: nowrap; /*каждое предложение без переносов */
+ }
