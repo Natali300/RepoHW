@@ -1,0 +1,85 @@
+.em{
+  width: 80em;
+  height: 40em;
+  background-color: aqua;
+  margin: 0.8em;
+}
+.em__foto{
+     float: left;
+    width: 50em;
+    height: 35em;
+    margin: 0.5em;
+}
+.em__text{
+   float: right;
+  font-size: 1.7em;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 2px 2px 4px;
+letter-spacing: 1px;
+color: #361193;
+margin: 0 0.5em 0.5em 0;
+}
+.em__text1{
+    font-size: 1.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.2em;
+    text-indent: 1em;
+}
+.line{
+    width: 80em;
+    height: 0.5em;
+    background-color: chartreuse;
+    margin: 0.5em;
+}
+.rem{
+    width: 85rem;
+    height: 110rem;
+    background-color: chocolate;
+
+}
+.rem__foto-odyvan{
+    width: 40rem;
+    height: 40rem;
+    margin: 0.5em;
+}
+.rem__foto-roza{
+    width: 40rem;
+    height: 40rem;
+    margin: 0.5em;
+}
+.rem__foto-mishka{
+    width: 80rem;
+    height: 40rem;
+    margin: 0.5em;
+}
+.rem__zagolovok{
+    font-size: 3rem;
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.rem__text{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0.5rem;
+    text-indent: 1rem;
+}
+.vhw{
+    width: 100vw;
+    height: 120vh;
+    background-color: cadetblue;
+}
+.vhw__text{
+    width: 80vw;  
+font-size: 3vw;
+margin: 3vw; 
+}
+.vhw__text1{
+font-family: 3vh;
+}
+.vhw__sq{
+    width: 95vw;
+    height: 20vh;
+    background-color: chartreuse; 
+    margin: 1vw; 
+}
