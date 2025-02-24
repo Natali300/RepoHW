@@ -1,0 +1,15 @@
+.wr{
+    padding: 100px 100px 30px;
+    height: 100vh;
+}
+.block{
+    height: 100%;
+    box-shadow:0px 0px 0px 20px #7da20e;
+    border-radius: 50px;
+}
+/* --------------------------------------------------------- */
+.block{
+    /* background: #440707;
+    background: linear-gradient(#440707 ,#0b0744 20%,#440707 50%); */
+  background: radial-gradient(#a20e64,#7da20e,#0e91a2);  
+}
