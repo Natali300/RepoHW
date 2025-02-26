@@ -11,5 +11,36 @@
 .block{
     /* background: #440707;
     background: linear-gradient(#440707 ,#0b0744 20%,#440707 50%); */
-  background: radial-gradient(#a20e64,#7da20e,#0e91a2);  
+  /* background: radial-gradient(#a20e64,#7da20e,#0e91a2); */
+background: url(imj/картинка.webp) center center/ cover  no-repeat;
+
+ /* background-repeat: no-repeat; ---1 картинка*/
+ /* background-repeat: space;   =====промежуток между картинками */
+ /* background-repeat: round; -----растягивает изображения от края до края */
+
+ /* background-position: 100px 20px;  ось х и щсь у */
+ /* background-position: center top; */
+
+ /* background-attachment: scroll; */
+ /* background-attachment: fixed; */
+ /* background-attachment:scroll; */
+ /* overflow: auto;----- вставляет скрол*/
+
+
+ /* background-size: contain;   ------пропорционально растягивается*/
+ /* background-size: auto; */
+ background-size:cover;
+ /* background: size 100%; */
+
+
+
+
+
+/* ----------универсальные-------------- */
+  /* background-attachment: fixed; */
+  /* background-clip: 
+  background-color: #fff;
+  background-image: url();
+  background-position: 0 0;
+  background-size: contain; */
 }
