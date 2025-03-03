@@ -1,0 +1,54 @@
+.kontainer{
+    margin: 0 auto;
+    max-width: 800px;
+}
+.translate, .rotate, .skale, .skew{
+    padding: 100px 0;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.translate__block, .rotate__block, .skale__block, .skew__block{
+    display: flex;
+    justify-content: center;
+}
+.red, .blue{
+    width: 300px;
+    height: 300px;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.lline{
+    background-color: black;
+    height: 3px;
+}
+/* ----------------------------------------------------- */
+.translate__red{
+    transform: translate(-30px, 30px);
+}
+.translate__blue{
+    transform: translate(30%,30%);
+}
+.rotate__red{
+    transform: rotate(40deg);
+}
+.rotate__blue{
+    transform: rotate(40deg);
+    transform-origin: top left;
+}
+.skale__red{
+    transform: scale(0.5);
+}
+.skale__blue{
+    transform: scale(1.5);
+}
+.skew__red{
+    transform: skew(0deg, 0deg);
+}
