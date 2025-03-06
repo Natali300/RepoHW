@@ -1,0 +1,41 @@
+.block,.inlaine{
+   font-size: 2rem; 
+   font-family: sans-serif;
+}
+.sohci_block{
+   box-sizing: border-box;
+   padding: 50px 50px;
+   background-color: aqua;
+}
+.sohci_block1{
+   box-sizing: content-box;
+   border: 5px solid#333;
+   padding:20px 50px 100px 30px;
+   margin: 50px 50px 100px 50 ;
+   background-color: #d0ff00;
+   width: 600px;
+
+}
+.sohci_inlaine{
+   /* padding: 20px 50px 100px 30px;проверила не работает */
+   background-color: brown;
+   display: inline-block;
+    padding: 20px 50px 100px 30px;/*так работает */
+}
+/* .sohci2{
+   font-size: 2rem; 
+   font-family: sans-serif;
+   width: 600px;
+   height: 50px; */
+/* } */
+.sohci2_block{
+   background-color: cadetblue;
+   width: 600px;
+   height: 300px;
+   box-sizing: border-box;
+   margin: 50px;
+/* overflow: hidden; */
+/* overflow: scroll; */
+/* overflow: auto; */
+overflow: visible;
+}
