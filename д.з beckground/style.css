@@ -1,0 +1,30 @@
+.svoistva{
+padding: 100px 100px 30px;
+height: 100vh;
+background-color: #6c6383;
+}
+.block{
+height: 100%;
+box-shadow:0px 0px 0px 20px #777 ;
+border-radius: 50px;
+}
+.block{
+/* background: scroll; */
+background: url(птица.jpg) center center/ cover;
+background-attachment: fixed;
+/* background-size:contain; */
+}
+/* ---------------------------------------------------------------- */
+.block2{
+height: 100%;
+box-shadow:0px 0px 0px 20px #681818 ;
+border-radius: 50px;
+}
+
+.block2{ 
+background: url(5f27514d7.jpg);
+/* background-repeat: repeat-y; */
+/* background-repeat: space; */
+background-repeat: round;
+/* background: linear-gradient(#681840,#3a09b8,#681818,#287312); */
+}
