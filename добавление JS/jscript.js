@@ -1,0 +1,2 @@
+function NajatKnopky(){
+    alert('Натали');}
